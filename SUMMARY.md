@@ -4,5 +4,5 @@
 * [Faucets](faucets.md)
 * [Bitcoin Faucets](bitcoin-faucets.md)
 * [Exchanges](chapter1.md)
-* Blockchain Reading List
+* [Blockchain Reading List](blockchain-reading-list.md)
 
