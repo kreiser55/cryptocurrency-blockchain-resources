@@ -6,7 +6,5 @@ This books aim is to give an overview and a brief introduction into the Blockcha
 
 If you want to support me with the book, make sure to send a few satoshis to my Bitcoin \(BTC\) donation address 36xbBCJSMsuEkzywkXnNXo7j19yC99bcB1
 
-
-
 [Continue to the summary of the book](/SUMMARY.md)
 
