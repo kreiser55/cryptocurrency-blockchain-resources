@@ -4,8 +4,6 @@ A faucet is a place where you can get minimal accounts in different cryptocurren
 
 The oldest and most reputable faucets are [moonbitcoin](http://moonbit.co.in/?ref=0ddabd92bff0) \(BTC\), [moonlitecoin](http://moonliteco.in/?ref=5b1f195e5346) \(LTC\) and [moondogecoin](http://moondoge.co.in/?ref=73ab2d9b1bb1) \(DOGE\). I am adding other ones i find on a regular basis. If you want to add your faucet to the list, contact me via [github](https://github.com/kreiser55).
 
-
-
 ## Bitcoin \(BTC\)
 
 * [Bitcoinfaucet.tk](http://bitcoinfaucet.tk/?ref=36xbBCJSMsuEkzywkXnNXo7j19yC99bcB1)
@@ -25,7 +23,7 @@ The oldest and most reputable faucets are [moonbitcoin](http://moonbit.co.in/?re
 
 ## Litecoin \(LTC\)
 
-* [Moon Litecoin](https://www.gitbook.com/book/kreiser512/bitcoin-cryptocurrency-and-altcoins/edit#)
+* [Moon Litecoin](http://moonliteco.in/?ref=5b1f195e5346)
 
 
 
